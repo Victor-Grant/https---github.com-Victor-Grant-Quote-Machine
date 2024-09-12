@@ -1,0 +1,52 @@
+body {
+    background: red;
+}
+
+#root {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    display: flex;
+    justify-content: space-between;
+}
+
+#text {
+    font-size: 22px;
+}
+
+#author {
+    text-align: right;
+    font-size: 20px;
+}
+
+a {
+    font-size: 25px;
+    color: red;
+}
+
+button {
+    background: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#quote-box {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    gap: 20px;
+    width: 400px;
+    padding: 25px;
+    border-radius: 20px;
+}
