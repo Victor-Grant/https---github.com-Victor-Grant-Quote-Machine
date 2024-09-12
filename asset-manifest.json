@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https---github.com-Victor-Grant-Quote-Machine/static/css/main.fbc876ab.css",
+    "main.js": "/https---github.com-Victor-Grant-Quote-Machine/static/js/main.e4a3cb40.js",
+    "static/js/453.24d52f09.chunk.js": "/https---github.com-Victor-Grant-Quote-Machine/static/js/453.24d52f09.chunk.js",
+    "index.html": "/https---github.com-Victor-Grant-Quote-Machine/index.html",
+    "main.fbc876ab.css.map": "/https---github.com-Victor-Grant-Quote-Machine/static/css/main.fbc876ab.css.map",
+    "main.e4a3cb40.js.map": "/https---github.com-Victor-Grant-Quote-Machine/static/js/main.e4a3cb40.js.map",
+    "453.24d52f09.chunk.js.map": "/https---github.com-Victor-Grant-Quote-Machine/static/js/453.24d52f09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc876ab.css",
+    "static/js/main.e4a3cb40.js"
+  ]
+}
